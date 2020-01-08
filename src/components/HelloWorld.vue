@@ -27,6 +27,7 @@ export default {
    componentss: [
      {'name':'Tide', 'id':'628652145552'} , {'name':'Airwick', 'id':'62965216429'} ,  {'name':'BATH TOWEL', 'id':'6273254264'} ,  {'name':'DETTOL HW 200ML', 'id':'6296274565'}
         ],
+        searchText: null
   }),
 }
 </script>

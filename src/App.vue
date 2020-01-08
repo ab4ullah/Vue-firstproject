@@ -125,6 +125,9 @@ export default {
     component : 'HelloWorld',
     sign : 'sign out',
     urls : "https://www.vippng.com/png/detail/499-4993984_logout-comments-fa-sign-out-icon.png",
+    drawer : null,
+    mini : null,
+    searchText : null
     
   }),
 
