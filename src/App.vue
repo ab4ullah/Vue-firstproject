@@ -16,7 +16,7 @@
         />
 
        
-         <span class="headline"> AB application </span>
+         <span class="headline"> <router-link class=" grab" to="/"> AB application  </router-link> </span>
       </div>
 
       <v-spacer></v-spacer>
